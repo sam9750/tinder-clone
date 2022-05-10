@@ -1,0 +1,61 @@
+.chatScreen {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1000%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M138.32803617353647 164.36649744352673L-30.46361862612568 81.84208565465984-21.86789116304476 245.85833630816592z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M197.53%2c151.783C224.279%2c151.302%2c247.661%2c136.854%2c262.541%2c114.621C279.661%2c89.04%2c294.485%2c56.653%2c279%2c30.05C263.568%2c3.537%2c228.092%2c0.28%2c197.53%2c2.931C171.925%2c5.152%2c150.672%2c20.363%2c137.345%2c42.339C123.407%2c65.323%2c115.382%2c93.484%2c128.335%2c117.037C141.665%2c141.277%2c169.871%2c152.281%2c197.53%2c151.783' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M978.717771574084 636.1615975940288L1064.89371675723 492.7407401535559 921.4728593167572 406.56479497040993 835.2969141336112 549.9856524108827z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1455.2614377686355 122.12956943326397L1406.628561752907 22.417396911166293 1306.9163892308093 71.05027292689473 1355.5492652465377 170.76244544899242z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1275.8338464114743-74.54272363424955L1109.5246816879835-94.96292139895216 1255.4136486467717 91.76644108924113z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M536.188%2c41.07C551.944%2c40.273%2c562.164%2c25.907%2c569.272%2c11.823C575.551%2c-0.617%2c577.289%2c-14.922%2c570.623%2c-27.159C563.662%2c-39.938%2c550.706%2c-47.917%2c536.188%2c-48.915C519.54%2c-50.059%2c501.164%2c-46.762%2c492.45%2c-32.531C483.455%2c-17.841%2c487.953%2c0.682%2c496.753%2c15.49C505.332%2c29.926%2c519.416%2c41.918%2c536.188%2c41.07' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1143.0615518136324 413.2704143678729L1247.067989483094 389.2586362377107 1159.04710345312 245.2548687985996z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1133.0490516484244 127.70443230756783L1033.9032637254786 106.63034452260128 1111.9749638634578 226.85022023051368z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M761.5328947041045 487.3196731519895L929.2820771168601 542.0014876635471 899.8529617098993 390.601813810214z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1329.89%2c369.862C1376.984%2c369.956%2c1407.669%2c324.025%2c1427.559%2c281.338C1444.134%2c245.765%2c1441.172%2c206.007%2c1422.263%2c171.618C1402.528%2c135.727%2c1370.832%2c104.9%2c1329.89%2c103.715C1287.175%2c102.479%2c1248.286%2c128.504%2c1227.77%2c165.99C1208.033%2c202.054%2c1214.48%2c244.193%2c1232.892%2c280.951C1253.946%2c322.983%2c1282.88%2c369.768%2c1329.89%2c369.862' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M486.23060705790067 387.5534634517746L576.5493993016948 382.8200561227509 524.2898921862623 249.70857142157143z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M536.5058194419513 317.62787808079736L479.6827276375455 201.12327466381106 420.001216024965 374.45096988520316z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1000'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+}
+
+input[type="text"] {
+  background-color: #858f98;
+  font-weight: 700;
+}
+::placeholder {
+  color: white;
+  opacity: 1;
+}
+
+.chatScreen__message {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+.chatScreen__text {
+  margin-left: 10px;
+  background-color: lightgray;
+  padding: 15px;
+  border-radius: 20px;
+}
+
+.chatScreen__timeStamp {
+  text-align: center;
+  padding: 20px;
+  color: white;
+}
+
+.chatScreen__textUser {
+  margin-left: auto;
+  background-color: #29b3cd;
+  padding: 15px;
+  border-radius: 20px;
+  color: white;
+}
+
+.chatScreen__input {
+  display: flex;
+  padding: 5px;
+  bottom: 0;
+}
+
+.chatScreen__inputField {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  border-radius: 23px;
+}
+
+.chatScreen__inputButton {
+  border: none;
+  margin-right: 10px;
+  background-color: #1c282a;
+  font-weight: bolder;
+  color: #ffffff;
+  border-radius: 23px;
+  padding: 12px;
+}
